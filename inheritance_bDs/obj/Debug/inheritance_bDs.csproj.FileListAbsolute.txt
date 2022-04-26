@@ -1,0 +1,8 @@
+C:\2-2ИС\inheritance_bDs\bin\Debug\inheritance_bDs.exe.config
+C:\2-2ИС\inheritance_bDs\bin\Debug\inheritance_bDs.exe
+C:\2-2ИС\inheritance_bDs\bin\Debug\inheritance_bDs.pdb
+C:\2-2ИС\inheritance_bDs\obj\Debug\inheritance_bDs.csproj.AssemblyReference.cache
+C:\2-2ИС\inheritance_bDs\obj\Debug\inheritance_bDs.csproj.SuggestedBindingRedirects.cache
+C:\2-2ИС\inheritance_bDs\obj\Debug\inheritance_bDs.csproj.CoreCompileInputs.cache
+C:\2-2ИС\inheritance_bDs\obj\Debug\inheritance_bDs.exe
+C:\2-2ИС\inheritance_bDs\obj\Debug\inheritance_bDs.pdb
