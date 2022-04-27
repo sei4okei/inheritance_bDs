@@ -49,7 +49,7 @@ namespace inheritance_bDs
                         break;
 
                     case 8:
-                        ReadPlanePowAlt();
+                        ReadCarCostMile();
                         break;
 
                     case 9:
